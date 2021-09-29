@@ -1,0 +1,26 @@
+body {
+  background-color: rgb(227, 225, 243);
+  padding-bottom: 30px;
+}
+
+h3 {
+  font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  font-size: x-large;
+  color: rgba(228, 24, 126, 0.7);
+  text-align: center;
+}
+
+table {
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  font-size: 15px;
+  text-align: center;
+  width: 40%;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: auto;
+  margin-bottom: auto;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  padding-left: 5px;
+  padding-right: 5px;
+}
