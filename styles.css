@@ -7,7 +7,7 @@ h3 {
   font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
   font-size: x-large;
   color: rgba(228, 24, 126, 0.7);
-  text-align: center;
+  text-align: auto;
 }
 
 table {
